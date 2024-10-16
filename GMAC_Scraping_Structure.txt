@@ -1,0 +1,27 @@
+"""
+2023-2024 Men's Basketball Overall Statistics
+    Team Stats(21 tables):
+        - Scoring: Offense, Margin, Defense
+        - Field Goals: Team FG Percentage, Opponent FG Percentage
+        - 3-Point FGS: Team 3-Point FG Percentage, 3-Point FGs Made, Opponent 3-Point FG Percentage
+        - Free Throws: Team FT Percentage, Opponent FT Percentage
+        - Rebounding: Combined Team Rebounds, Team Offensive Rebounds, Rebounding Margin, Combined Opponent Rebounds, Team Defensive Rebounds
+        - Turnovers: Turnover Margin, Assist/Turnover Ratio
+        - Misc: Blocked Shots, Steals, Assists,  Attendance
+        Leaders(11 tables):
+        - Scoring: Scoring
+        - Rebounding: Rebounding
+        - FG/3FG/FT: Field Goal Percentage, Free Throw Percentage, 3-PT Field Goal Percentage, 3-PT Field Goals Per Game
+        - Assists: Assists, Assist/Turnover Ratio
+        - Blocks/Steals: Blocked Shots, Steals,
+        - Minutes: Minutes
+        Results(14 tables):
+        - Overall: Overall,
+        - By Team: Ashland (17-11-0, 11-9-0), Cedarville (23-12-0, 13-7-0), Findlay (12-16-0, 9-11-0), Hillsdale (18-10-0,
+         13-7-0), Kentucky Wesleyan (21-9-0, 15-5-0), Lake Erie (8-20-0, 6-14-0), Malone (15-13-0, 8-12-0),
+          Northwood (7-21-0, 4-16-0), Ohio Dominican (5-22-0, 2-18-0), Thomas More (19-12-0, 12-8-0), Tiffin (18-12-0, 11-9-0),
+          Trevecca Nazarene (16-13-0, 11-9-0), Walsh (24-6-0, 15-5-0)
+        Game Highs:
+        - Team(16 tables but the th[0] will need to be the table title):
+        - Individual: DOES NOT LOAD
+    """

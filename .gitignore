@@ -1,0 +1,9 @@
+# ignore all .txt files
+*.env
+*.txt
+!requirements.txt
+!LICENSE.txt
+!words.txt
+!GMAC_Scraping_Structure.txt
+.idea/
+__pycache__/
